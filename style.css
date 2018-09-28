@@ -1,0 +1,22 @@
+body
+{
+background-color: black;
+color: white;
+width: 650px;
+display: block;
+margin: auto;
+}
+a
+{
+	color: blue;
+}
+
+h1
+{
+	color: white;
+}
+
+p
+{
+	color: white;
+}
